@@ -40,3 +40,9 @@ challenge-amigo-secreto_pt-main/
 
 Este projeto é de código aberto e pode ser utilizado livremente.
 
+## 👤 Autor
+
+Desenvolvido por [Roger Santos ( Pato Pato Rocco )].  
+![Minha Foto](https://avatars.githubusercontent.com/u/SEU_ID_GITHUB?s=200)
+
+
