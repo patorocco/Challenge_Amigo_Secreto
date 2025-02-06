@@ -4,9 +4,11 @@ Este projeto é uma aplicação web simples para sorteio de amigo secreto.
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
 ## 📂 Estrutura do Projeto
 
@@ -41,8 +43,8 @@ challenge-amigo-secreto_pt-main/
 Este projeto é de código aberto e pode ser utilizado livremente.
 
 ## 👤 Autor
-
-Desenvolvido por [Roger Santos ( Pato Pato Rocco )].  
-![Minha Foto](https://avatars.githubusercontent.com/u/121566016?s=200)
+ 
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/121566016?v=4" width=115><br><sub>Roger Santos</sub>](https://github.com/patorocco) | 
+| :---: |
 
 
